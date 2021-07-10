@@ -1,0 +1,12 @@
+{
+  "name": "beatsaver-downloader",
+  "version": "1.0.0",
+  "description": "A node.js script that downloads top-rated custom songs from beatsaver.com ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
